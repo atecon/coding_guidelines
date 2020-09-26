@@ -1,3 +1,7 @@
+% Proposal for coding conventions for the Hansl scripting language
+% The Gretl Team
+% September 2020
+
 *Any fool can write code that a computer can understand.*
 
 *Good programmers write code that humans can understand* — Martin Fowler
